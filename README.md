@@ -18,7 +18,7 @@ I'm a software developer working remotely from South Africa 👨🏻‍💻 I st
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech and building cool things.
-- 📰 &nbsp; Reading and writing. Currently reading the Lean-startup and writing my own RPG game story line
+- 📰 &nbsp; Reading and writing. Currently reading the Lean Startup and writing my own RPG game story line
 - 💪 &nbsp; Keeping fit and strong!
 - 🎣 &nbsp; Fishing
 
