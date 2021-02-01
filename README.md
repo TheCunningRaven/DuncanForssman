@@ -13,7 +13,7 @@ I'm a software developer working remotely from South Africa 👨🏻‍💻 I st
 - 🛠 &nbsp; I’m currently working on a MERN stack project on the side <br />
 - 🚀 &nbsp; I’m also currently learning some game development on the Godot engine in my spare time.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theCunningRaven).
-- 📫 &nbsp; How to reach me: duncsforssman@gmail.com.
+- 📫 &nbsp; How to reach me: duncanforssman@gmail.com.
 
 ### My Absolute Favorites:
 
