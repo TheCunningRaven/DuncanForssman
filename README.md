@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Duncan Forssman](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Duncan Forssman](https://github.com/theCunningRaven)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/duncanforssman)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/duncsforssman/)
@@ -17,10 +17,10 @@ I'm a a software developer working remotely from South Africa 👨🏻‍💻 I 
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
--
-
+- 💻 &nbsp; I love exploring new tech and building cool things.
+- 📰 &nbsp; Reading and writing. Currently reading the Lean-startup and writing my own RPG game story line
+- 💪 &nbsp; Keeping fit and strong!
+- 🎣 &nbsp; Fishing
 
 <div align="center">
 
