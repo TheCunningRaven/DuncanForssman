@@ -5,7 +5,7 @@
 
 ### Thanks for visiting my profile! &nbsp; 
 
-I'm a a software developer working remotely from South Africa 👨🏻‍💻 I studied a Bachelor of Commerce Majoring in Information Systems, after graduating I ended up pursuing a career in development.🏛. I have been pasionate about computers since I was a young kid and I'm a fast learner and natural problem solver 💡. I am Currently working as a Fullstack developer for SCSCloud wher I work mostly with Php & Laravel, however I have experience in a multitude of languages of frameworks🤓.
+I'm a software developer working remotely from South Africa 👨🏻‍💻 I studied a Bachelor of Commerce Majoring in Information Systems, after graduating I ended up pursuing a career in development.🏛. I have been pasionate about computers since I was a young kid and I'm a fast learner and natural problem solver 💡. I am Currently working as a Fullstack developer for SCSCloud wher I work mostly with Php & Laravel, however I have experience in a multitude of languages of frameworks🤓.
 
 
 ### Personal Things:
