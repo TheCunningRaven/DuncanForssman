@@ -5,14 +5,13 @@
 
 ### Thanks for visiting my profile! &nbsp; 
 
-I'm a software developer working remotely from South Africa 👨🏻‍💻 I studied a Bachelor of Commerce Majoring in Information Systems, after graduating I ended up pursuing a career in development.🏛. I have been pasionate about computers since I was a young kid and I'm a fast learner and natural problem solver 💡. I am Currently working as a Fullstack developer for SCSCloud wher I work mostly with Php & Laravel, however I have experience in a multitude of languages of frameworks🤓.
+I'm a software developer working remotely from South Africa 👨🏻‍💻 I studied a Bachelor of Commerce Majoring in Information Systems, after graduating I ended up pursuing a career in development.🏛. I have been pasionate about computers since I was a young kid and I'm a fast learner and natural problem solver 💡.I am currently working as a fullstack developer for NTT where I mostly work with Angular and .Net 🤓.
 
 
 ### Personal Things:
 
-- 🛠 &nbsp; I’m currently working on a MERN stack project on the side <br />
+- 🛠 &nbsp; I’m currently working on a fullstack online store project on the side <br />
 - 🚀 &nbsp; I’m also currently learning some game development on the Godot engine in my spare time.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/theCunningRaven).
 - 📫 &nbsp; How to reach me: duncanforssman@gmail.com.
 
 ### My Absolute Favorites:
